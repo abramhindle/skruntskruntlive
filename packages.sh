@@ -14,6 +14,7 @@ sudo apt-get install freqtweak libjson-perl libjson-xs-perl \
     swig \
     python-matplotlib \
     python2.7-dev \
+    pulseaudio-module-jack \
     python-zmq
 
 
