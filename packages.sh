@@ -8,7 +8,15 @@ sudo apt-get install freqtweak libjson-perl libjson-xs-perl \
     qjackctl \
     liblo-dev \
     liboscpack-dev \
-    libusb-dev 
+    libusb-dev \
+    cmake cmake-curses-gui \
+    libjack-jackd2-dev \
+    swig \
+    python-matplotlib \
+    python2.7-dev
+
+
+sudo apt-get clean
 sudo cpan Net::OpenSoundControl::Client
 cd ~
 mkdir projects
