@@ -13,7 +13,8 @@ sudo apt-get install freqtweak libjson-perl libjson-xs-perl \
     libjack-jackd2-dev \
     swig \
     python-matplotlib \
-    python2.7-dev
+    python2.7-dev \
+    python-zmq
 
 
 sudo apt-get clean
@@ -37,3 +38,4 @@ git clone https://github.com/abramhindle/grains-of-voxels.git
 git clone https://github.com/abramhindle/KinectInstruments.git
 git clone https://github.com/abramhindle/disquiet0073-sanandreas.git
 git clone https://github.com/abramhindle/Video-Score-Gen.git
+git clone https://github.com/abramhindle/flann.git
