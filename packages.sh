@@ -15,6 +15,7 @@ sudo apt-get install freqtweak libjson-perl libjson-xs-perl \
     python-matplotlib \
     python2.7-dev \
     pulseaudio-module-jack \
+    vim-gnome \
     python-zmq
 
 
@@ -31,7 +32,7 @@ git clone https://github.com/abramhindle/csound-timestretching-granular-synth-ex
 git clone https://github.com/abramhindle/rapid-fire-instruments.git  
 git clone https://github.com/abramhindle/a-letter-to-virgil.git
 git clone https://github.com/abramhindle/mostitch.git
-git clone https://github.com/abramhindle/marsyas-fork.git marsysas
+git clone https://github.com/abramhindle/marsyas-fork.git marsyas
 git clone https://github.com/abramhindle/bubble-warp.git
 git clone https://bitbucket.org/abram/dehum.git
 git clone https://github.com/abramhindle/EventTableEditor.git
@@ -40,3 +41,4 @@ git clone https://github.com/abramhindle/KinectInstruments.git
 git clone https://github.com/abramhindle/disquiet0073-sanandreas.git
 git clone https://github.com/abramhindle/Video-Score-Gen.git
 git clone https://github.com/abramhindle/flann.git
+git clone https://github.com/emacsattic/chuck-mode.git
