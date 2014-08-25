@@ -2,7 +2,7 @@
 echo installing packages, we\'re going to use sudo
 sudo apt-get install freqtweak libjson-perl libjson-xs-perl \
     libmojolicious-perl screen openjdk-7-jdk libsdl1.2-dev \
-    freeglut3-dev chuck libfreenect-dev qjackctl freqtweak \
+    freeglut3-dev libfreenect-dev qjackctl freqtweak \
     libopencv-dev \
     supercollider supercollider-emacs git csound \
     qjackctl \
