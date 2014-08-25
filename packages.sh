@@ -18,6 +18,8 @@ sudo apt-get install freqtweak libjson-perl libjson-xs-perl \
     vim-gnome \
     libzmq-dev libsqlite3-dev sqlite3 libzeromq-perl \
     bison flex \
+    libsndfile-dev \
+    privbind \
     python-zmq
 sudo apt-get clean
 sudo cpan Net::OpenSoundControl::Client
