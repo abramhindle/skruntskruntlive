@@ -6,4 +6,7 @@ mkdir build
 cd build
 cmake -D BUILD_MATLAB_BINDINGS=OFF  ..
 make
-sudo make install
+sudo make install && \
+cd .. && \
+cd .. && \
+rm -rf flann
