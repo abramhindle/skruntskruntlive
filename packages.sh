@@ -16,6 +16,7 @@ sudo apt-get install freqtweak libjson-perl libjson-xs-perl \
     python2.7-dev \
     pulseaudio-module-jack \
     vim-gnome \
+    libzmq-dev libsqlite3-dev sqlite3 libzeromq-perl \
     python-zmq
 
 
@@ -42,3 +43,5 @@ git clone https://github.com/abramhindle/disquiet0073-sanandreas.git
 git clone https://github.com/abramhindle/Video-Score-Gen.git
 git clone https://github.com/abramhindle/flann.git
 git clone https://github.com/emacsattic/chuck-mode.git
+git clone https://github.com/abramhindle/mongrel2-musical-relay.git
+

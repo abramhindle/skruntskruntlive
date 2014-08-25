@@ -36,3 +36,12 @@ Lessons Learned
 
 * Measure your USB drives to the byte level. This is your max allocation for your virtualbox.
 * Don't let ubuntu make swap for you. Swap on a flash drive is a bad idea unless you're desperate.
+
+TODOS
+=====
+
+* Make a Kinect folder
+* Compile Kinect stuff
+* Video-Score-Gen
+* Update Bubble Wrap to latest
+* Do more mongrel2 stuff
