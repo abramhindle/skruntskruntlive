@@ -9,4 +9,4 @@ make linux-jack
 sudo make install && \
 cd .. && \
 cd .. && \
-rm -rf chuck-1.3.4.0 
+rm -rf chuck-1.3.4.* 

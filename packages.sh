@@ -30,12 +30,9 @@ git clone https://github.com/abramhindle/SuperCollider-Elements.git
 git clone https://github.com/abramhindle/SupercolliderScripts.git
 git clone https://github.com/abramhindle/abrams-chuck-snippets.git
 git clone https://github.com/abramhindle/csound-timestretching-granular-synth-experiment.git
-git clone https://github.com/abramhindle/mostitch.git
-git clone https://github.com/abramhindle/marsyas-fork.git marsyas
 git clone https://github.com/abramhindle/bubble-warp.git
 git clone https://bitbucket.org/abram/dehum.git
 git clone https://github.com/abramhindle/EventTableEditor.git
 git clone https://github.com/abramhindle/disquiet0073-sanandreas.git
-git clone https://github.com/abramhindle/flann.git
 git clone https://github.com/emacsattic/chuck-mode.git
 git clone https://github.com/abramhindle/mongrel2-musical-relay.git
