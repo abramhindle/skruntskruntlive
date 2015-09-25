@@ -22,6 +22,7 @@ sudo apt-get install freqtweak libjson-perl libjson-xs-perl \
     privbind \
     bison \
     flex \
+    libsndfile-dev \
     python-zmq
 
 
