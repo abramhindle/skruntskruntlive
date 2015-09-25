@@ -20,6 +20,8 @@ sudo apt-get install freqtweak libjson-perl libjson-xs-perl \
     bison flex \
     libsndfile-dev \
     privbind \
+    bison \
+    flex \
     python-zmq
 sudo apt-get clean
 sudo cpan Net::OpenSoundControl::Client
